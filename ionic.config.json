@@ -1,0 +1,7 @@
+{
+  "name": "AppCorridaKM",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
